@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h5{
+  color: #212529;
+  font-weight: 300;
+  font-size: 20px;
+}
+p{
+  color: #707070;
+  font-weight: 300;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+p.card-text {
+  font-size: 12px;
+  font-weight: 300;
+}
+hr{
+  margin: 0px;
+  margin-top: 10.5px;
+}
+
+.creditos {
+  font-weight: 300;
+  color: #707070;
+  font-size: 12pt;
+}
+
+footer {
+  color: #707070;
+}
